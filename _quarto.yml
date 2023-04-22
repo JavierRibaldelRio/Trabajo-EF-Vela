@@ -1,5 +1,11 @@
 project:
   type: website
+  preview: 
+    port: 3000
+    browser: false
+  
+execute:
+  freeze: auto
 
 website:
   title: "Trabajo-EF-Vela"
@@ -11,7 +17,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: Zephyr
     css: styles.css
     toc: true
 
