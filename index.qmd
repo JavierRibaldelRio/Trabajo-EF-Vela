@@ -2,6 +2,10 @@
 title: "Vela Ligera"
 ---
 
-This is a Quarto website.
+Página Principal
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Introducción
+# Reseña Histórica
+# Beneficios Orgánicos y Psicológicos
+# Valoración
+· Webgrafía (Enlace a otra página)

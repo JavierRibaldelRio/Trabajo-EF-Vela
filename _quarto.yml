@@ -9,18 +9,37 @@ execute:
   freeze: auto
 
 website:
-  title: "Trabajo-EF-Vela"
+  title: "Vela Ligera"
+  page-navigation: true      
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    right:
+      - href: pages/partes.qmd
+      - href: pages/vientos.qmd
+      - href: pages/categorias.qmd
+      - text: Laser
+        menu:       
+        - href: pages/laser.qmd
+          text: Categoría Laser
+        - href: www.gooogle.com
+          text: Vídeo Laser
+  sidebar: 
+    alignment: left
+  search: 
+    type: textbox
+  page-footer:
+    left: Educación Física
+    center: Javier Ribal del Río 1º Bachillerato A Nº 23
+    right: Curso 2022-23
+    background: info
+    
+  
 
 format:
   html:
-    theme: Zephyr
+    theme: zephyr
     css: styles.css
     toc: true
-
-
-
+    toc-title: Índice
+    number-sections: true
+    code-overflow: wrap
+    highlight-style: arrow
