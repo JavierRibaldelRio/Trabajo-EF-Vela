@@ -1,3 +1,87 @@
 ---
 title: Vientos
 ---
+En la vela ligera, el viento juega un papel muy importante, ya que gracias a él los veleros son impulsados. Ser capaces de terminar que tipo de viento es nos permite saber en que rumbo estamos
+
+# Vientos
+
+Podemos clasificar los vientos según de donde vengan; si un viento sopla del este al oeste diremos que es el viento del este (levante).
+
+!["Rosa de los vientos"](../img/rosa.jpg)
+
+<table class="table table-striped table-light ">
+
+<thead>
+<tr>
+<th>Viento</th>
+<th>Origen</th>
+<th>Época del año</th>
+<th>Clima</th>
+<th>Curiosidades</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tramontana</td>
+<td>Norte</td>
+<td>Invierno</td>
+<td>Frío y Turbulento</td>
+<td></td>
+</tr>
+<tr>
+<td>Gregal</td>
+<td>Origen</td>
+<td>Todo el año</td>
+<td>Frio y seco</td>
+<td>Es el viento que se utiliza para ir a Grecia de ahí el nombre</td> 
+</tr>
+<tr>
+<td>Levante</td>
+<td>Este</td>
+<td>De mayo a Octubre</td>
+<td>Sueave húmedo y trae lluvias</td>
+<td>El nombre viene de levantarse ya que por el este sale el sol</td>
+
+</tr>
+<tr>
+<td>Siroco</td>
+<td>Sureste</td>
+<td>Primavera y otoño</td>
+<td>Tormentas humedad y rafagas de viento</td>
+<td>La expresión: "le ha dado un siroco" viene de que este es el viento que trae el polvo del Sahara a la Península Ibérica</td>
+
+</tr>
+<tr>
+<td>Mediodía o Ostro</td>
+<td>Sur</td>
+<td>Todo el año</td>
+<td>Árido</td>
+<td></td>
+
+</tr>
+<tr>
+<td>Lebeche</td>
+<td>Suroeste</td>
+<td>Época del año</td>
+<td>Clima</td>
+<td></td>
+
+</tr>
+<tr>
+<td>Viento</td>
+<td>Origen</td>
+<td>Época del año</td>
+<td>Clima</td>
+<td></td>
+
+</tr>
+<tr>
+<td>Viento</td>
+<td>Origen</td>
+<td>Época del año</td>
+<td>Clima</td>
+<td></td>
+
+</tr>
+</tbody>
+</table>
