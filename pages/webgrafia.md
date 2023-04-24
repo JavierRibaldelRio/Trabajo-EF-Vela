@@ -6,3 +6,10 @@ https://es.wikipedia.org/wiki/Tramontana
 https://es.wikipedia.org/wiki/Viento_de_levante
 https://kiteandrolltarifa.com/kitesurf-tarifa/tiempo-viento/siroco/
 https://es.wikipedia.org/wiki/Ostro
+https://marineroabordo.com/poniente-y-levante-los-dos-vientos-del-mediterraneo/
+https://es.wikipedia.org/wiki/Mistral_(viento)
+https://es.wikipedia.org/wiki/RS:X
+https://es.wikipedia.org/wiki/Finn_(vela)
+https://es.wikipedia.org/wiki/470_(vela)
+https://es.wikipedia.org/wiki/Nacra_17
+https://es.wikipedia.org/wiki/Vela_ligera
