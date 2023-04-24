@@ -2,28 +2,28 @@
 title: Partes Velero
 ---
 
-![Partes de un Velero](../img/partes.jpg)
+![Partes de un Velero](../img/partes.png)
 
 1. **Mástil:** Palo central del valo que sujeta la vela mayor, normalmente de metal o de carbono
 2. **Driza de la Mayor:** cabo que se ocupa de subir la vela mayor
 3. **Vela Mayor [Mayor]:** vela más grande y central
 4. **Puño de Driza:** lugar de la vela donde se ata la driza correspondiente con un As de guía
-5. **Sables:** partes de plástico o metal que ayudan a que cuando no haya viento la vela no se doble sobre si misma
+5. **Sables:** partes de plástico o metal que ayudan a que cuando no haya viento la vela no se doble sobre sí misma
 6. **Obenques:** alambres que sujetan el mástil
 7. **Puño de escota:** lugar de la vela o la botavara por donde pasa la escota.
 8. **Botavara:** palo central perpendicular al mástil que sujeta la vela y le otorga peso
 9. **Escota de la mayor:** cabo que controla el ángulo que forma la vela respecto al eje central del barco
 10. **Caña:** parte del timón por la que lo cogemos 
 11. **Pala del Timón:** parte del timón que está sumergida en el agua
-12. **Casco:** parte de plático del barco en la cual se incrusta el mástil, el timón y la orza
-13. **Orza:** pieza fundamental del barco el cual lo hace resistente a las olas
+12. **Casco:** parte de plástico del barco en la cual se incrusta el mástil, el timón y la orza
+13. **Orza:** pieza fundamental del barco la cual lo hace resistente a las olas
 14. **Escota de Foque:** cabo que  permite controlar la posición del foque y su amplitud
-15. **Foque o vela menor:** vela de menor tamaño que la mayor que 
-16. **Puño de Amura** lugar donde se anuda la vela menor
-17. **Driza del foque:** cabo que sostiene la vela meno
-18. **Gratil:** parte delantera de la vela
+15. **Foque o vela menor:** vela de menor tamaño que la mayor 
+16. **Puño de Amura:** lugar donde se anuda la vela menor
+17. **Driza del foque:** cabo que sostiene la vela menor
+18. **Grátil:** parte delantera de la vela
 19. **Baluma:** parte trasera de la vela
 20. **Pujament:** parte inferior de la vela
-21. **Contra:** cabo y mordaza que manejan el ángulo que forman la botavara y el mástil, actua como seguro de botavara; es decir que si por algun motivio se soltase la botavara, la contra la mantentría unido al barco para que no se pierda en el mar
+21. **Contra:** cabo y mordaza que manejan el ángulo que forman la botavara y el mástil, actúa como seguro de botavara; es decir que si por algun motivio se soltase la botavara, la contra la mantendría unido al barco para que no se pierda en el mar
 22. **Pajarín:** cabo que mueve la vela de izquierda a derecha en la botavara
-23. **Cunningam:** cabo que mueve el gratil de la vela
+23. **Cunningam:** cabo que mueve el grátil de la vela

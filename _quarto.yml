@@ -10,9 +10,11 @@ execute:
 
 website:
   title: "Vela Ligera"
-  page-navigation: true      
   navbar:
+    background: "#a77d00"
     right:
+      - href: pages/historia.qmd
+      - href: pages/beneficios.qmd
       - href: pages/partes.qmd
       - href: pages/vientos.qmd
       - href: pages/categorias.qmd
@@ -20,10 +22,9 @@ website:
         menu:       
         - href: pages/laser.qmd
           text: Categoría Laser
-        - href: www.gooogle.com
+        - href: pages/video.qmd
           text: Vídeo Laser
-  sidebar: 
-    alignment: left
+  
   search: 
     type: textbox
   page-footer:
@@ -39,8 +40,7 @@ format:
   html:
     theme: zephyr
     css: styles.css
-    toc: true
-    toc-title: Índice
+   
     number-sections: true
     code-overflow: wrap
     highlight-style: arrow
