@@ -13,3 +13,4 @@ https://es.wikipedia.org/wiki/Finn_(vela)
 https://es.wikipedia.org/wiki/470_(vela)
 https://es.wikipedia.org/wiki/Nacra_17
 https://es.wikipedia.org/wiki/Vela_ligera
+https://es.wikipedia.org/wiki/Laser_(vela)

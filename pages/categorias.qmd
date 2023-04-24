@@ -2,9 +2,9 @@
 title: Categorías
 ---
 
-# Clases Olímpicas
+# Categorías Olímpicas
 
-En el mundo de la vela competitiva, al igual que en muchos deportes hay barias categorias en las que competir. A continuación explicaremos las olímpicas ja que con las mas conocidas:
+En el mundo de la vela competitiva, al igual que en muchos deportes hay barias categorías en las que competir. A continuación explicaremos las olímpicas ja que con las mas conocidas:
 
 <div class="accordion" id="accordionExample">
 <div class="accordion-item">
@@ -15,7 +15,7 @@ RS:X</button>
 <div id="collapsex" class="accordion-collapse collapse" aria-labelledby="headingx" data-bs-parent="#accordionExample">
 <div class="accordion-body">
 
-Modalidad de Windsurf, a partir de 2008 sustutiyó a la clase mistral, categoria individual.
+Modalidad de Windsurf, a partir de 2008 sustutiyó a la clase mistral, categoría individual.
 
 ![RS:X](../img/rsx.png)
 
@@ -35,17 +35,7 @@ Laser / Laser Radial
 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
 <div class="accordion-body">
 
-**Finalitat:** infromar d'algun aspecte de manera objectiva
-
-<hr>
-
-**Justificació** (3 exemples del text mínim):
-
-- Respondre breument a la pregunta: *què esposa?* Resumir breument què es allò que proposa el text
-- L'ús de verbs i pronoms en 3a persona
-- L'ús de lèxic **no** valoratiu
-- Oracions enunciatives
-- Verbs en indicatiu
+<a href="laser.html" class="btn no-san btn-danger">Categoría Laser</a>
 
 </div>
 </div>
@@ -92,11 +82,11 @@ Cuenta tanto con modalidad masculina y femenina
 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
 <div class="accordion-body">
 
-49er categoria de 2 tripulantes, el velero tiene 3 valas. La clase es olímpica desde los Juegos olímpicos de Sidney 2000.
+49er categoría de 2 tripulantes, el velero tiene 3 valas. La clase es olímpica desde los Juegos olímpicos de Sidney 2000.
 
 ![49er](../img/49er.png)
 
-Esta categoria cuenta con modalidad masculina y femenina.
+Esta categoría cuenta con modalidad masculina y femenina.
 </div>
 </div>
 </div>
@@ -118,7 +108,7 @@ Categoría de catamaran de 2 tripulantes, la embarcación cuenta con tres velas.
 </div>
 </div>
 
-# Otras Clases Conocidas
+# Otras Categorías Conocidas
 
 - Mistral
 - Optimist

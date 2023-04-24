@@ -20,7 +20,8 @@ img {
 
 }
 
-li p {
+li p,
+.no-san {
 
     text-indent: 0 !important;
 }
