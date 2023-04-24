@@ -1,3 +1,137 @@
 ---
 title: Categorías
 ---
+
+# Clases Olímpicas
+
+En el mundo de la vela competitiva, al igual que en muchos deportes hay barias categorias en las que competir. A continuación explicaremos las olímpicas ja que con las mas conocidas:
+
+<div class="accordion" id="accordionExample">
+<div class="accordion-item">
+<p class="accordion-header" id="headingx">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsex" aria-expanded="false" aria-controls="collapseTwo">
+RS:X</button>
+</p>
+<div id="collapsex" class="accordion-collapse collapse" aria-labelledby="headingx" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+
+Modalidad de Windsurf, a partir de 2008 sustutiyó a la clase mistral, categoria individual.
+
+![RS:X](../img/rsx.png)
+
+Cuenta con modalidad tanto femenina como masculina
+
+</div>
+</div>
+</div>
+
+
+<div class="accordion-item">
+<p class="accordion-header" id="headingTwo">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+Laser / Laser Radial
+</button>
+</p>
+<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+
+**Finalitat:** infromar d'algun aspecte de manera objectiva
+
+<hr>
+
+**Justificació** (3 exemples del text mínim):
+
+- Respondre breument a la pregunta: *què esposa?* Resumir breument què es allò que proposa el text
+- L'ús de verbs i pronoms en 3a persona
+- L'ús de lèxic **no** valoratiu
+- Oracions enunciatives
+- Verbs en indicatiu
+
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<p class="accordion-header" id="headingThree">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+Finn</button>
+</p>
+<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+
+Yate, olímpico desde los Juegos Olímpicos de Helsinki en 1952, categoría individual
+
+![Finn](../img/finn.png)
+
+Cuenta únicamente con modalidad masculina
+
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<p class="accordion-header" id="headingFive">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+470</button>
+</p>
+<div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+
+470 es clase olímpica desde 1976, categoría de parejas. El velero cuenta con tres velas.
+
+![470](../img/470.png)
+
+Cuenta tanto con modalidad masculina y femenina
+
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<p class="accordion-header" id="headingOne">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+49er</button>
+</p>
+<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+
+49er categoria de 2 tripulantes, el velero tiene 3 valas. La clase es olímpica desde los Juegos olímpicos de Sidney 2000.
+
+![49er](../img/49er.png)
+
+Esta categoria cuenta con modalidad masculina y femenina.
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<p class="accordion-header" id="headingFour">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+Nacra 17</button>
+</p>
+<div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+
+Categoría de catamaran de 2 tripulantes, la embarcación cuenta con tres velas. Es olímpica desde los Juegos de Río en 2016
+
+![Nacra 17](../img/nacara.webp)
+
+Únicamente cuenta con categoría mixta.
+</div>
+</div>
+</div>
+</div>
+
+# Otras Clases Conocidas
+
+- Mistral
+- Optimist
+- Vaurien
+- Snipe
+- RS Feva
+- RS Tera
+- Raquero
+- Ludic
+- Cadete
+- Dragon
+- Europa
+- Patin a vela
+- L'Equipe
+- Star
+- Patín a vela

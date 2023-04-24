@@ -3,7 +3,7 @@ title: Vientos
 ---
 En la vela ligera, el viento juega un papel muy importante, ya que gracias a él los veleros son impulsados. Ser capaces de terminar que tipo de viento es nos permite saber en que rumbo estamos
 
-# Vientos
+# Vientos del Mediterraneo
 
 Podemos clasificar los vientos según de donde vengan; si un viento sopla del este al oeste diremos que es el viento del este (levante).
 
@@ -26,12 +26,12 @@ Podemos clasificar los vientos según de donde vengan; si un viento sopla del es
 <td>Norte</td>
 <td>Invierno</td>
 <td>Frío y Turbulento</td>
-<td></td>
+<td>El viento viene de los pirineos, de ahí el nombre</td>
 </tr>
 <tr>
 <td>Gregal</td>
 <td>Origen</td>
-<td>Todo el año</td>
+<td>Febrero</td>
 <td>Frio y seco</td>
 <td>Es el viento que se utiliza para ir a Grecia de ahí el nombre</td> 
 </tr>
@@ -52,7 +52,7 @@ Podemos clasificar los vientos según de donde vengan; si un viento sopla del es
 
 </tr>
 <tr>
-<td>Mediodía o Ostro</td>
+<td>Mediodía o Ostro o Mijorn[o]</td>
 <td>Sur</td>
 <td>Todo el año</td>
 <td>Árido</td>
@@ -60,28 +60,53 @@ Podemos clasificar los vientos según de donde vengan; si un viento sopla del es
 
 </tr>
 <tr>
-<td>Lebeche</td>
+<td>Lebeche o Garbí</td>
 <td>Suroeste</td>
-<td>Época del año</td>
-<td>Clima</td>
+<td>Abril, Mayo, Septiembre y Octubre</td>
+<td>Árido y trae polvo del Sahara</td>
 <td></td>
 
 </tr>
 <tr>
-<td>Viento</td>
-<td>Origen</td>
-<td>Época del año</td>
-<td>Clima</td>
-<td></td>
+<td>Poniente</td>
+<td>Oeste</td>
+<td>Verano</td>
+<td>Sin humedad y caliente</td>
+<td>Su nombre viene de que por el oeste se pone el sol</td>
 
 </tr>
 <tr>
-<td>Viento</td>
-<td>Origen</td>
-<td>Época del año</td>
-<td>Clima</td>
-<td></td>
-
+<td>Mistral o Maestral</td>
+<td>Noroeste</td>
+<td>De Noviembre a Mayo</td>
+<td>Viento frio y violento</td>
+<td>Su nombre viene de que el viento viene del *Maestrazgo* en el valle del Ródano (*Francia*)</td>
 </tr>
 </tbody>
 </table>
+
+
+
+<div class="alert alert-danger">
+<strong>Atención</strong>: éstos son los vientos del Mediterraneo. Fuera de él los vientos pueden ser completamente distintos. Por ejemplo: en el mar Átlántico el poniente es un viento frio y tormentoso.
+</div>
+
+<div class="alert alert-warning">
+Fuera del litoral mediterraneo peninsular, el viento de Lebeche lo llaman Siroco. 
+</div>
+
+# Rumbos
+
+En función de la posición de nuestro barco al viento, diremos que estamos en un rumbo u otro. Además saber en que rumbo estas te indica: la posición de la vela, la posición del foque, la altura de la orza...
+
+![Rumbos](../img/rumb.jpg)
+
+- **Ceñida:** rumbo más cercano al viento, el barco forma un ángulo de  45º respecto al viento, la vela ha de estar lo más cerada posible
+- **Traves:** el velero forma un ángulo de 90º respecto al viento, las velas han de ir medio abiertas. Sólo la mitad de la orza ha de estar sumergida en el agua
+- **Largo:** el barco y el viento forman un ángulo de 135º, las velas han de ir casi abiertas del todo. Tes cuartas partes de la orza han de estar sumergidas
+
+- **Popa o enpopada:** velas completamente abiertas, siendo perpendiculares al viento. Si el barco tiene dos velas, una a cada lado
+
+- **Aproado [el rojo]:** rumbo no navegable, el barco está cara al viento, la vela flamea y el barco no se mueve. Sirve para parar el barco, o dar marcha atras.
+
+![Rumbos II, fíjese en la posición de las velas](../img/velas.jpg)
