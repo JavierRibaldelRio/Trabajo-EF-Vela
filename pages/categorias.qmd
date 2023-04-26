@@ -4,7 +4,7 @@ title: Categorías
 
 # Categorías Olímpicas
 
-En el mundo de la vela competitiva, al igual que en muchos deportes hay varias categorías en las que competir. A continuación explicaremos las olímpicas ya que con las más conocidas:
+En el mundo de la vela competitiva, al igual que en muchos deportes hay varias categorías en las que competir. A continuación, explicaremos las olímpicas ya que con las más conocidas:
 
 <div class="accordion" id="accordionExample">
 <div class="accordion-item">
@@ -15,7 +15,7 @@ RS:X</button>
 <div id="collapsex" class="accordion-collapse collapse" aria-labelledby="headingx" data-bs-parent="#accordionExample">
 <div class="accordion-body">
 
-Modalidad de Windsurf, a partir de 2008 sustutiyó a la clase mistral, categoría individual.
+Modalidad de Windsurf, a partir de 2008 sustutiyó a la clase Mistral, categoría individual.
 
 ![RS:X](../img/rsx.png)
 
@@ -48,7 +48,7 @@ Finn</button>
 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
 <div class="accordion-body">
 
-Yate, olímpico desde Helsinki 1952, categoría individual
+Yate, olímpico desde Helsinki 1952, categoría individual.
 
 ![Finn](../img/finn.png)
 
@@ -98,7 +98,7 @@ Nacra 17</button>
 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
 <div class="accordion-body">
 
-Categoría de catamaran de 2 tripulantes, la embarcación cuenta con tres velas. Es olímpica desde Río 2016
+Categoría de catamarán de 2 tripulantes, la embarcación cuenta con tres velas. Es olímpica desde Río 2016
 
 ![Nacra 17](../img/nacara.webp)
 
