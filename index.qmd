@@ -2,7 +2,7 @@
 title: "Vela Ligera"
 ---
 
-La vela ligera es un deporte náutico que se practica con veleros de [orzas](pages/partes.qmd) y [timones](pages/partes.qmd) desmontables. Los veleros no cuentan con ningún tipo de propulsión. Las regatas suelen celbrarse cerca de la costa.
+La vela ligera es un deporte náutico que se practica con veleros de [orzas](pages/partes.qmd) y [timones](pages/partes.qmd) desmontables. Los veleros no cuentan con ningún tipo de propulsión. Las regatas suelen celebrarse cerca de la costa.
 
 El organismo de gestión de este deporte es la [Federación Intenacional de Vela (ISAF)](https://www.sailing.org/) conjuntamente con el [Comite Olímpico Internacional (COI)](https://olympics.com/ioc).
 
