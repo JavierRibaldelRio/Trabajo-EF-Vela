@@ -32,14 +32,14 @@ Podemos clasificar los vientos según de donde vengan; si un viento sopla del es
 <td>Gregal</td>
 <td>Origen</td>
 <td>Febrero</td>
-<td>Frio y seco</td>
-<td>Es el viento que se utiliza para ir a Grecia de ahí el nombre</td> 
+<td>Frío y seco</td>
+<td>Es el viento que se utiliza para ir a Grécia de ahí el nombre</td> 
 </tr>
 <tr>
 <td>Levante</td>
 <td>Este</td>
 <td>De mayo a Octubre</td>
-<td>Sueave húmedo y trae lluvias</td>
+<td>Suave húmedo y trae lluvias</td>
 <td>El nombre viene de la zona por la que se *levanta* el sol</td>
 
 </tr>
@@ -47,7 +47,7 @@ Podemos clasificar los vientos según de donde vengan; si un viento sopla del es
 <td>Siroco</td>
 <td>Sureste</td>
 <td>Primavera y otoño</td>
-<td>Tormentas humedad y rafagas de viento</td>
+<td>Tormentas humedad y ráfagas de viento</td>
 <td>La expresión: "le ha dado un siroco" viene de que este es el viento que trae el polvo del Sahara a la Península Ibérica</td>
 
 </tr>
@@ -90,9 +90,9 @@ Podemos clasificar los vientos según de donde vengan; si un viento sopla del es
 <div class="alert alert-warning no-san">
 
 <div class="no-san">
-<strong>Nota</strong>: éstos son los vientos del Mediterráneo. En otras los vientos pueden ser completamente distintos. Por ejemplo: en el mar Atlántico el poniente es un viento frio y tormentoso.
+<strong>Nota</strong>: éstos son los vientos del Mediterráneo. En otras los vientos pueden ser completamente distintos. Por ejemplo: en el mar Atlántico el poniente es un viento frío y tormentoso.
 
-Fuera del litoral mediterraneo peninsular, el viento de <strong>Lebeche</strong> <strong>lo llaman Siroco</strong>. 
+Fuera del litoral mediterráneo peninsular, el viento de <strong>Lebeche</strong> <strong>lo llaman Siroco</strong>. 
 </div>
 </div>
 
@@ -108,8 +108,8 @@ Los principales son:
 - **Través:** el velero forma un ángulo de 90º respecto al viento, las velas han de ir medio abiertas. Sólo la mitad de la orza ha de estar sumergida en el agua
 - **Largo:** el barco y el viento forman un ángulo de 135º, las velas han de ir casi abiertas del todo. Tres cuartas partes de la orza han de estar sumergidas
 
-- **Popa o enpopada:** velas completamente abiertas, siendo perpendiculares al viento. Si el barco tiene dos velas, una a cada lado
+- **Popa o empopada:** velas completamente abiertas, siendo perpendiculares al viento. Si el barco tiene dos velas, una a cada lado
 
-- **Aproado [el rojo]:** rumbo no navegable, el barco está cara al viento, la vela flamea y el barco no se mueve. Sirve para parar el barco, o dar marcha atras
+- **Aproado [el rojo]:** rumbo no navegable, el barco está cara al viento, la vela flamea y el barco no se mueve. Sirve para parar el barco, o dar marcha atrás
 
 ![Rumbos II, fíjese en la posición de las velas](../img/velas.jpg)

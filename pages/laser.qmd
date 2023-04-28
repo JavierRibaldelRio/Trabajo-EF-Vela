@@ -6,11 +6,11 @@ En esta sección, me voy a centrar la categoría *laser*, que es la única que h
 
 # Descripción
 
-El *laser* es un velero de vela ligera de un tripulante. El casco pesa 59 Kg, además ha de tener una eslora (longitud de una embarcación desde la proa hasta la popa) de 4,23 metros, mientras que la manga (logitud de una embarcación de babor a estribor) ha de ser de 1,42 metros. Gracias a su peso tan ligero es capaz de pasar por encima de las olas sin que se rompan.
+El *laser* es un velero de vela ligera de un tripulante. El casco pesa 59 Kg, además ha de tener una eslora (longitud de una embarcación desde la proa hasta la popa) de 4,23 metros, mientras que la manga (longitud de una embarcación de babor a estribor) ha de ser de 1,42 metros. Gracias a su peso tan ligero es capaz de pasar por encima de las olas sin que se rompan.
 
 ![Laser](../img/laser.png)
 
-En relación a los aparejos (material de un barco necesario para su funcionamiento), el laser necesita de: una vela latina, la base que se une a la punta para conformar el másil, la botavara, la orza, el timón, la escota, el pajarín, el cunningam y la contra.
+En relación a los aparejos (material de un barco necesario para su funcionamiento), el laser necesita de: una vela latina, la base que se une a la punta para conformar el mástil, la botavara, la orza, el timón, la escota, el pajarín, el cunningam y la contra.
 
 ## Modalidades
 
@@ -18,7 +18,7 @@ Dentro de la categoría, encontramos 3 tipos de modalidades
 
 ### Laser 4.7
 
-La modalidad 4.7 es la recomendada para gente sin conocimientos de navegación y para jóvenes. Está recomendado para personas con peso entre 35 y 55 Kg. El area de la vela es 4,20m².
+La modalidad 4.7 es la recomendada para gente sin conocimientos de navegación y para jóvenes. Está recomendado para personas con peso entre 35 y 55 Kg. El área de la vela es 4,20m².
 
 
 ### Laser Radial
@@ -35,7 +35,7 @@ Recomendada para personas con un peso superior a los 80 Kg, la vela mide 7.06 m�
 
 # Historia
 
-El laser fue ideado por Bruce Kirby y Ian Bruce (diseñador industrial) en 1969. Ambos se dieron cuenta de la necesidad de crear un barco similar al Snipe, que pudiese ser transportado sobre de un coche, fuese barato de fabricar y fácil de montar. El laser se mostró al público en el Salón Naútico de 1971. Finalmente, en 1974, fue reconcido por la ISAF como categoría internacional, y a día de hoy es el la embarcación de un solo tripulante más extendida del mundo, detrás del Optimist.
+El laser fue ideado por Bruce Kirby y Ian Bruce (diseñador industrial) en 1969. Ambos se dieron cuenta de la necesidad de crear un barco similar al Snipe, que pudiese ser transportado sobre de un coche, fuese barato de fabricar y fácil de montar. El laser se mostró al público en el Salón Náutico de 1971. Finalmente, en 1974, fue reconocido por la ISAF como categoría internacional, y a día de hoy es el la embarcación de un solo tripulante más extendida del mundo, detrás del Optimist.
 
 ![Dos embarcaciones Laser sobre la baca de un automóvil](../img/laser-coche.jpg)
 
@@ -58,7 +58,7 @@ El laser fue ideado por Bruce Kirby y Ian Bruce (diseñador industrial) en 1969.
 
 2º Josefin Olsson (Suecia)
 
-3º Hermann Tomasgaard (Paises Bajos)
+3º Hermann Tomasgaard (Países Bajos)
 
 
 ![Anne-Marie Rindom](../img/ann.jpg)

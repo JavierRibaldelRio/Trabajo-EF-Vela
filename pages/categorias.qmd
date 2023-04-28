@@ -15,7 +15,7 @@ RS:X</button>
 <div id="collapsex" class="accordion-collapse collapse" aria-labelledby="headingx" data-bs-parent="#accordionExample">
 <div class="accordion-body">
 
-Modalidad de Windsurf, a partir de 2008 sustutiyó a la clase Mistral, categoría individual.
+Modalidad de Windsurf, a partir de 2008 sustituyó a la clase Mistral, categoría individual.
 
 ![RS:X](../img/rsx.png)
 

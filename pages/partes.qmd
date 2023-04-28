@@ -4,7 +4,7 @@ title: Partes Velero
 
 ![Partes de un Velero](../img/partes.png)
 
-1. **Mástil:** Palo central del valo que sujeta la vela mayor, normalmente de metal o de carbono
+1. **Mástil:** Palo central del barco que sujeta la vela mayor, normalmente de metal o de carbono
 2. **Driza de la Mayor:** cabo que se ocupa de subir la vela mayor
 3. **Vela Mayor [Mayor]:** vela más grande y central
 4. **Puño de Driza:** lugar de la vela donde se ata la driza correspondiente con un As de guía
@@ -24,6 +24,6 @@ title: Partes Velero
 18. **Grátil:** parte delantera de la vela
 19. **Baluma:** parte trasera de la vela
 20. **Pujament:** parte inferior de la vela
-21. **Contra:** cabo y mordaza que manejan el ángulo que forman la botavara y el mástil, actúa como seguro de botavara; es decir que si por algun motivio se soltase la botavara, la contra la mantendría unido al barco para que no se pierda en el mar
+21. **Contra:** cabo y mordaza que manejan el ángulo que forman la botavara y el mástil, actúa como seguro de botavara; es decir que si por algún motivo se soltase la botavara, la contra la mantendría unido al barco para que no se pierda en el mar
 22. **Pajarín:** cabo que mueve la vela de izquierda a derecha en la botavara
 23. **Cunningam:** cabo que mueve el grátil de la vela
