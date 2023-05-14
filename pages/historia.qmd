@@ -10,7 +10,7 @@ Para poder entender la vela ligera es importante comprender la historia de la N�
 El origen del ser humano se encuentra en el continente africano. En nuestro afán de poblar y conquistar el mundo, hemos atravesado bosques, escalado montañas y cruzado ríos, mares y océanos. Sin embargo, para poder cruzar las aguas los seres humanos nos valimos de los troncos de los árboles. Esto aparte de demostrar el ingenio del hombre prehistórico, es también el origen de la náutica. Una técnica que ha evolucionado mucho con el paso del tiempo.
 
 
-El primer barco ya funcional, era de madera y ya contaba con remos y velas; la teoría más extendida dice que fue creado por las civilizaciones orientales cerca del año 3000 AC. Su principal utilidad fue el transporte de materiales, como por ejemplo troncos y piedras para la construcción de las pirámides egipcias. Paralelamente, los Fenicios fueron los primeros en emplear la construcción naval para la exploración marítima y el comercio.
+El primer barco funcional era de madera y disponía de remos y velas; la teoría más extendida dice que fue creado por las civilizaciones orientales cerca del año 3000 AC. Su principal utilidad fue el transporte de materiales, como por ejemplo troncos y piedras para la construcción de las pirámides egipcias. Paralelamente, los Fenicios fueron los primeros en emplear la construcción naval para la exploración marítima y el comercio.
 
 ![Ilustración primeras aplicaciones de los barcos](../img/transporte-piedra-nilo.webp)
 
@@ -20,4 +20,4 @@ A partir del 1700 los veleros se empezaron a utilizar como herramienta para el c
 
 # Vela ligera
 
-No esta muy claro donde se celebraron las primeras competiciones de vela ligera. Sin embargo, fueron popularizadas por Carlos II de Inglaterra. En 1887 un letrado dublinés definió el concepto de clase. Él deseaba que las competiciones fuesen para medir la habilidad de los patrones en embarcaciones construidas con el mismo diseño. De ahí en adelante la idea de competir por categorías se generalizó. Finalmente la ISAF fue fundada en 1907 por 13 naciones europeas.
+No esta muy claro donde se celebraron las primeras competiciones de vela ligera. Sin embargo, fueron popularizadas por Carlos II de Inglaterra. En 1887 un letrado dublinés definió el concepto de clase o categoría. Él deseaba que las competiciones fuesen para medir la habilidad de los patrones en embarcaciones construidas con el mismo diseño. De ahí en adelante la idea de competir por categorías se generalizó. Finalmente la ISAF fue fundada en 1907 por 13 naciones europeas.
